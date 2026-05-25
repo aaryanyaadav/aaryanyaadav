@@ -3,35 +3,36 @@
 **ML / DL Engineer · Building production-ready AI systems**
 
 [![Location](https://img.shields.io/badge/📍-India-brightgreen?style=flat-square)](.)
-[![Education](https://img.shields.io/badge/VIT_Bhopal-B.Tech_CST_'27-blue?style=flat-square)](.)
-[![Internship](https://img.shields.io/badge/EX-Intern-NetZero_Aqua-purple?style=flat-square)](.)
+[![Education](https://img.shields.io/badge/VIT_Bhopal-B.Tech_CSE_'27-blue?style=flat-square)](.)
 [![Status](https://img.shields.io/badge/-Open_to_Opportunities-orange?style=flat-square)](.)
 
 ---
 
 ##  Currently Building
 
--  **Legal Contract Risk Auditor** 
+-  **Legal Contract Risk Auditor Using RAG** 
 
 ---
 
 ## About Me
 
-I design end-to-end ML pipelines — from data collection and preprocessing through model training, evaluation, optimization, and deployment. My work emphasizes **performance**, **clean system design**, and **real-world impact** over experimental prototypes.
+I'm a Machine Learning engineer who builds systems that are meant to ship — not just notebooks that look good in a demo. My work spans the full pipeline: raw data ingestion, preprocessing, model architecture design, training loops, evaluation, optimization, and production deployment with clean APIs and explainability layers. My work emphasizes **performance**, **clean system design**, and **real-world impact** over experimental prototypes.
 
-Currently working on intelligent detection systems and NLP-based risk analysis solutions, while actively exploring Generative AI. I focus heavily on improving model efficiency through better feature engineering, hyperparameter tuning, architecture refinement, and inference optimization.
+My current technical obsessions are LLMs , retrieval-augmented generation, and model interpretability — because a model no one trusts is a model no one uses. I care as much about why a model predicts what it predicts as I do about the prediction itself.
+
+Outside of active builds, I'm constantly studying the intersection of model efficiency and system design — how to squeeze more performance from less compute through smarter feature engineering, architecture choices, and inference optimization.
 
 ---
 
 ##  Tech Stack
 
 ```
-Languages    │ Python · Java · SQL
-Frameworks   │ PyTorch · TensorFlow · Scikit-learn · FastAPI · Streamlit
-NLP / GenAI  │ HuggingFace Transformers · LangChain · FAISS · NLTK
-MLOps        │ MLflow · Docker · GitHub Actions · AWS
+Languages    │ Python · Java · SQL . HTML . CSS . JS
+Frameworks   │ PyTorch · TensorFlow · Scikit-learn · FastAPI · YOLO . Streamlit
+NLP / GenAI  │ RAG . HuggingFace Transformers · LangChain · FAISS · NLTK . ChromaDB . Multimodal AI
+MLOps        │ MLflow · Docker · AWS . System Design
 Data         │ Pandas · NumPy · Matplotlib
-Other        │ Firebase · Git · Jupyter
+Other        │ Firebase · Git · Jupyter . RoboFlow . 
 ```
 
 ---
@@ -57,12 +58,9 @@ Other        │ Firebase · Git · Jupyter
 ##  Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aryan_Yadav-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/aaryan-yaadav/)
-[![GitHub](https://img.shields.io/badge/GitHub-aryan--yadav-181717?style=flat-square&logo=github)](https://github.com/aaryanyaadav/)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=flat-square&logo=gmail)](mailto:aryanyadav051206@gmail.com)
 
 ---
 
 *Actively seeking opportunities to contribute to impactful AI/ML projects where I can build scalable systems and continuously improve model performance and efficiency.*
 
-Email: [aryanyadav051206@gmail.com](mailto:your-email@example.com)
-LinkedIn: https://www.linkedin.com/in/aaryan-yaadav/
