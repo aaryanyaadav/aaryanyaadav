@@ -3,7 +3,7 @@
 **ML / DL Engineer · Building production-ready AI systems**
 
 [![Location](https://img.shields.io/badge/📍-India-brightgreen?style=flat-square)](.)
-[![Education](https://img.shields.io/badge/VIT_Bhopal-B.Tech_CSE_'27-blue?style=flat-square)](.)
+[![Education](https://img.shields.io/badge/VIT_Bhopal-B.Tech_CSE_2027-blue?style=flat-square)](.)
 [![Status](https://img.shields.io/badge/-Open_to_Opportunities-orange?style=flat-square)](.)
 
 ---
@@ -62,5 +62,4 @@ Other        │ Firebase · Git · Jupyter . RoboFlow .
 
 ---
 
-*Actively seeking opportunities to contribute to impactful AI/ML projects where I can build scalable systems and continuously improve model performance and efficiency.*
-
+*Actively seeking opportunities to contribute to impactful AI projects where I can build scalable systems and continuously improve model performance and efficiency.*
