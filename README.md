@@ -41,10 +41,10 @@ Other        │ Firebase · Git · Jupyter . RoboFlow .
 
 | Area | Focus |
 |------|-------|
-|  Machine Learning | End-to-end pipelines, feature engineering, model optimization |
-|  Deep Learning | BiLSTM, Attention, CNNs, Transformers, LoRA fine-tuning |
+|  Machine Learning | Supervise and Unsupervised Learning, Boosting and Bagging, End-to-end pipelines, feature engineering, model optimization |
+|  Deep Learning | BiLSTM, Attention, CNNs, Transformers, RNNs, Encoder Decoder Architecture |
 |  Natural Language Processing | Sentiment analysis, contract intelligence, RAG systems |
-|  Generative AI | LLM integration, prompt engineering, retrieval-augmented generation |
+|  Generative AI | LLM integration, prompt engineering, retrieval-augmented generation, Vector Database |
 |  Performance Engineering | Inference optimization, hyperparameter tuning, SHAP explainability |
 
 ---
