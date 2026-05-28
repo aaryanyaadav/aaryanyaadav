@@ -1,6 +1,6 @@
 # Hi, I'm Aryan Kumar Yadav 
 
-**ML / DL Engineer · Building production-ready AI systems**
+**ML Engineer · Building production-ready AI systems**
 
 [![Location](https://img.shields.io/badge/📍-India-brightgreen?style=flat-square)](.)
 [![Education](https://img.shields.io/badge/VIT_Bhopal-B.Tech_CSE_2027-blue?style=flat-square)](.)
