@@ -29,7 +29,7 @@ Outside of active builds, I'm constantly studying the intersection of model effi
 ```
 Languages    │ Python · Java · SQL . HTML . CSS . JS
 Frameworks   │ PyTorch · TensorFlow · Scikit-learn · FastAPI · YOLO . Streamlit
-NLP / GenAI  │ RAG . HuggingFace Transformers · LangChain · FAISS · NLTK . ChromaDB . Multimodal AI
+NLP / GenAI  │ RAG . HuggingFace Transformers · LangChain · FAISS · NLTK . ChromaDB . Multimodal AI . OCR
 MLOps        │ MLflow · Docker · AWS . System Design
 Data         │ Pandas · NumPy · Matplotlib
 Other        │ Firebase · Git · Jupyter . RoboFlow . 
