@@ -28,11 +28,13 @@ Outside of active builds, I'm constantly studying the intersection of model effi
 
 ```
 Languages    │ Python · Java · SQL . HTML . CSS . JS
-Frameworks   │ PyTorch · TensorFlow · Scikit-learn · FastAPI · YOLO . Streamlit
-NLP / GenAI  │ RAG . HuggingFace Transformers · LangChain · FAISS · NLTK . ChromaDB . Multimodal AI . OCR
-MLOps        │ MLflow · Docker · AWS . System Design
-Data         │ Pandas · NumPy · Matplotlib
-Other        │ Firebase · Git · Jupyter . RoboFlow . 
+Frameworks   │ PyTorch · TensorFlow · Scikit-learn · FastAPI · YOLO . LangGraph . LangChain
+Libraries    │ NumPy . Pandas . scikit-learn . SHAP . Streamlit . NLTK . OpenCV . YOLO . Matplotlib . Pydantic . Hugging Face
+ML           │ Data Analysis & Visualization . EDA . Feature Engineering . Supervised and Unsupervised Learning .
+             |  Boosting . Bagging . Hyperparameter Tuning . CNN . RNN . LSTM . Encoder–Decoder Models . NLP . Attention Mechanisms .
+             |  Transformers . Generative AI .  RAG . Multimodal AI . Vectorless RAG . Agentic AI . MCP . LLM Gaurdrail
+GenAI        │ RAG . HuggingFace Transformers · LangChain · FAISS · NLTK . ChromaDB . Multimodal AI . OCR . Prompt Engineering . Multimodal AI . Vectorless RAG              | . Agentic AI . MCP . LLM Gaurdrail . LLM Evaluation . LLM Observability   
+Tools        │ VS Code . Git . Jupyter Notebook . Google Colab . Kaggle .  Roboflow
 ```
 
 ---
