@@ -42,7 +42,7 @@ Tools        │ VS Code . Git . Jupyter Notebook . Google Colab . Kaggle .  Rob
 
 | Area | Focus |
 |------|-------|
-|  Machine Learning | Supervise and Unsupervised Learning, Boosting and Bagging, End-to-end pipelines, feature engineering, model optimization, MLOps |
+|  Machine Learning | Supervise and Unsupervised Learning, Boosting and Bagging, End-to-end pipelines, feature engineering, model optimization |
 |  Deep Learning | BiLSTM, Attention, CNNs, Transformers, RNNs, Encoder Decoder Architecture, NLP |
 |  Generative AI | LLM integration, prompt engineering, retrieval-augmented generation, Vector Database, Vectorless RAG, AI Agents, LLM Evaluation, MCP |
 |  Performance Engineering | Inference optimization, hyperparameter tuning, SHAP explainability |
