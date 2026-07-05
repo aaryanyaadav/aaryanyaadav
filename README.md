@@ -29,7 +29,7 @@ const aryan = {
 
 <br/>
 
-[![Core](https://skillicons.dev/icons?i=py,java,pytorch,fastapi,sklearn,mysql,ai,github,vscode&perline=8)](https://skillicons.dev)
+[![Core](https://skillicons.dev/icons?i=py,java,pytorch,fastapi,sklearn,mysql,github,vscode&perline=8)](https://skillicons.dev)
 
 <br/>
 
