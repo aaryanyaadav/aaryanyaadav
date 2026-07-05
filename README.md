@@ -29,7 +29,7 @@ const aryan = {
 
 <br/>
 
-[![Core](https://skillicons.dev/icons?i=py,java,pytorch,fastapi,docker,mysql,ai,vscode&perline=8)](https://skillicons.dev)
+[![Core](https://skillicons.dev/icons?i=py,java,pytorch,fastapi,sklearn,mysql,ai,github,vscode&perline=8)](https://skillicons.dev)
 
 <br/>
 
@@ -45,7 +45,6 @@ const aryan = {
 
 <br/>
 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -67,8 +66,6 @@ const aryan = {
 </a>
 
 <br>
-
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=aaryanyaadav&theme=tokyonight&hide_border=true&background=0d1117&ring=D85A30&fire=D85A30&currStreakLabel=D85A30" alt="GitHub Streak" />
 </p>
