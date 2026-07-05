@@ -69,5 +69,5 @@ const aryan = {
 
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=noobsmarty&theme=tokyonight&hide_border=true&background=0d1117&ring=D85A30&fire=D85A30&currStreakLabel=D85A30" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=aaryanyaadav&theme=tokyonight&hide_border=true&background=0d1117&ring=D85A30&fire=D85A30&currStreakLabel=D85A30" alt="GitHub Streak" />
 </p>
