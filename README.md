@@ -1,65 +1,73 @@
-# Hi, I'm Aryan Kumar Yadav 
-
-**ML Engineer · Building production-ready AI systems**
-
-[![Location](https://img.shields.io/badge/📍-India-brightgreen?style=flat-square)](.)
-[![Education](https://img.shields.io/badge/VIT_Bhopal-B.Tech_CSE_2027-blue?style=flat-square)](.)
-[![Status](https://img.shields.io/badge/-Open_to_Opportunities-orange?style=flat-square)](.)
-
----
-
-##  Currently Building
-
--  **Legal Contract Risk Auditor Using RAG** 
-
----
-
-## About Me
-
-I'm a Machine Learning engineer who builds systems that are meant to ship — not just notebooks that look good in a demo. My work spans the full pipeline: raw data ingestion, preprocessing, model architecture design, training loops, evaluation, optimization, and production deployment with clean APIs and explainability layers. My work emphasizes **performance**, **clean system design**, and **real-world impact** over experimental prototypes.
-
-My current technical obsessions are LLMs , retrieval-augmented generation, and model interpretability — because a model no one trusts is a model no one uses. I care as much about why a model predicts what it predicts as I do about the prediction itself.
-
-Outside of active builds, I'm constantly studying the intersection of model efficiency and system design — how to squeeze more performance from less compute through smarter feature engineering, architecture choices, and inference optimization.
-
----
-
-##  Tech Stack
-
-```
-Languages    │ Python · Java · SQL . HTML . CSS . JS
-Frameworks   │ PyTorch · TensorFlow · Scikit-learn · FastAPI · YOLO . LangGraph . LangChain
-Libraries    │ NumPy . Pandas . scikit-learn . SHAP . Streamlit . NLTK . OpenCV . YOLO . Matplotlib . Pydantic . Hugging Face
-ML           │ Data Analysis & Visualization . EDA . Feature Engineering . Supervised and Unsupervised Learning .
-             | Boosting . Bagging . Hyperparameter Tuning . CNN . RNN . LSTM . Encoder–Decoder Models . NLP . Attention Mechanisms . Transformers
-GenAI        │ RAG . HuggingFace Transformers · LangChain · FAISS · NLTK . ChromaDB . Multimodal AI . OCR . Prompt Engineering . Multimodal AI . Vectorless RAG              | Agentic AI . MCP . LLM Gaurdrail . LLM Evaluation . LLM Observability   
-Tools        │ VS Code . Git . Jupyter Notebook . Google Colab . Kaggle .  Roboflow
-```
-
----
-
-##  Core Focus Areas
-
-| Area | Focus |
-|------|-------|
-|  Machine Learning | Supervise and Unsupervised Learning, Boosting and Bagging, End-to-end pipelines, feature engineering, model optimization |
-|  Deep Learning | BiLSTM, Attention, CNNs, Transformers, RNNs, Encoder Decoder Architecture, NLP |
-|  Generative AI | LLM integration, prompt engineering, retrieval-augmented generation, Vector Database, Vectorless RAG, AI Agents, LLM Evaluation, MCP |
-|  Performance Engineering | Inference optimization, hyperparameter tuning, SHAP explainability |
-
----
-
-##  Fun Fact
-
-> Interested in economics and geopolitics — I optimize AI models by day and try to mentally optimize global systems by night. Still debugging both.
-
----
-
-##  Let's Connect
+<h2> Hi, I'm Aryan Kumar Yadav! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<p><em>Student At <a href="https://vitbhopal.ac.in/">VIT Bhopal University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="40"><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDg0eWYzd2FkeTVseGpmZ3diYXQ4MHAyOGprd2pjZjBtZG1wbWF0bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11JTxkrmq4bGE0/giphy.gif" width="30"> 
+</em></p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aryan_Yadav-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/aaryan-yaadav/)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=flat-square&logo=gmail)](mailto:aryanyadav051206@gmail.com)
 
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const aryan = {
+  pronouns: "he" | "him",
+  code: [Javascript, HTML, CSS, Python, Java],
+  Frameworks: [PyTorch, TensorFlow, Scikit-learn, FastAPI, YOLO, LangGraph, LangChain],
+  ML: [ Feature Engineering, Supervised and Unsupervised Learning, Boosting & Bagging, RNN, CNN, LSTM, NLP, Attention Mechanisms, Transformers, RAG, VectorLess RAG, Agentic AI, MCP, LLM Gaurdrail, LLM Evaluation, LLM Observability  ],
+  Tools:[VS Code, Git, Jupyter Notebook, Google Colab, Kaggle, Roboflow]
+}
+```
+
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmppaDRpbnpwMnljYXJoY3NqcGkwb2ZhNDl3ZWczdTFtNG02M2liYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eEjf3t9MeTXZM0d91u/giphy.gif" width="60"> <em><b> Interested in   geopolitics — I optimize AI models by day and try to mentally optimize global systems by night. Still debugging both.</b> :)</em>
+
 ---
 
-*Actively seeking opportunities to contribute to impactful AI projects where I can build scalable systems and continuously improve model performance and efficiency.*
+<div align="center">
+  
+### TECH STACK
+
+<br/>
+
+[![Core](https://skillicons.dev/icons?i=py,java,pytorch,fastapi,docker,git,linux,vscode&perline=8)](https://skillicons.dev)
+
+<br/>
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-4B32C3?style=for-the-badge)
+![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97_HuggingFace-FFD21E?style=for-the-badge&logoColor=black)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F54D27?style=for-the-badge&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-2563EB?style=for-the-badge)
+
+<br/>
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-111827?style=for-the-badge)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+</div>
+
+
+<div align="center">
+  
+---
+### GitHub Stats
+<a href='https://github.com/aaryanyaadav/github-stats-transparent'>
+  
+![Stats Overview](https://raw.githubusercontent.com/aaryanyaadav/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/aaryanyaadav/github-stats-transparent/output/generated/languages.svg)
+
+</a>
+
+<br>
+
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=noobsmarty&theme=tokyonight&hide_border=true&background=0d1117&ring=D85A30&fire=D85A30&currStreakLabel=D85A30" alt="GitHub Streak" />
+</p>
