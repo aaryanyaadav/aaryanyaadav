@@ -15,7 +15,7 @@ const aryan = {
   Frameworks: [PyTorch, Scikit-learn, FastAPI, YOLO, LangGraph, LangChain],
   ML: [ Feature Engineering, Supervised and Unsupervised Learning, Ensemble learning, RNN, CNN, LSTM, NLP, Attention Mechanisms, Transformers],
   Gen AI:[RAG, VectorLess RAG, Agentic AI, MCP, LLM Gaurdrail, LLM Evaluation, LLM Observability, LLM Finetuning],
-  Tools:[VS Code, Git, Jupyter Notebook, Google Colab, Kaggle, Roboflow, Docker, n8n]
+  Tools:[VS Code, Git, Jupyter Notebook, Google Colab, Kaggle, Docker, n8n]
 }
 ```
 
